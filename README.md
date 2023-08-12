@@ -14,3 +14,4 @@
 *Certifique-se de executar o League e o bot no seu monitor principal, pois ele não suporta monitores adicionais!
 obrigado por entrar!
 - young s2
+`(e o luck gosta de crianca)`
